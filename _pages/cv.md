@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV in PDF format](https://frhrdr.github.io/files/cv_frederik_harder.pdf)
+
 Education
 ======
 * B.Sc. in Cognitive Science, Osnabrück University, 2015
